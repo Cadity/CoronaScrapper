@@ -13,3 +13,5 @@ Pour lancer le projet, télécharger la dernière version stable (dans "Package"
   -> Test de Ping vers google <br>
     -> Si le test est positif : Accès au Scrapper de données et récupération des fichiers<br>
     -> Si le test est négatif : Message de vérification de connexion à internet<br>
+- Demande le choix d'un répertoire d'accueil pour les fichiers
+
