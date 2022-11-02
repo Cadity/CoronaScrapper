@@ -15,3 +15,7 @@ Pour lancer le projet, télécharger la dernière version stable (dans "Package"
     -> Si le test est négatif : Message de vérification de connexion à internet<br>
 - Affiche la fenêtre principale avec le récapitulatif des informations
 
+Attention :
+
+L'acquisition des informations depuis le serveur peut prendre entre 3 et 10 secondes. La fenêtre peut donc planter pendant quelques secondes avant d'afficher une boite de dialogue.
+
