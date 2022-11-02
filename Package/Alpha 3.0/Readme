@@ -1,0 +1,4 @@
+Résumé des modifications :
+
+- Récupération des informations des fichiers GenBank et inscriptions sur un format texte
+- Disposition d'un tableau dans la fenêtre principale affichant les informations précédement récupérées
