@@ -78,5 +78,3 @@ def MainFunction():
     fullDataList.append(listGeneNumber)
     fullDataList.append(listGCRate)
     return fullDataList
-
-MainFunction()
