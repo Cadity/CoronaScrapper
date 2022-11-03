@@ -1,8 +1,0 @@
-Résumé des modifications :
-
-- Réponse à l'étape B :
-  -> Les informations sont récupérées depuis le fichier GenBank et écrites dans le fichier info_seq_covid.txt
-
-- Affichage des informations du fichier texte sur la fenêtre principale
-
-- Ajout de commentaires
