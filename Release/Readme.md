@@ -1,4 +1,4 @@
-Contenu du Package "Release"
+# Contenu du Package "Release"
 
 **Ne doit pas être édité, modifié ou publié sans que la version finale n'aie été approuvée par l'ensemble du groupe. La signature RSA déploie la version définitive**
 
