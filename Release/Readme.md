@@ -11,3 +11,13 @@ Dossier Signature
 
 - Contient l'ensemble du code source signé via la clé publique du projet (SHA-512)
 - Contient la signature du projet final
+
+# Edition de la Version Finale
+
+Le package de la version finale doit comporter :
+
+- L'ensemble du code source executable,
+- Les instructions en cas d'usage de packets supplémentaires
+- Les signatures RSA conformes, par la fonction SHA-512, via la clé publique du groupe,
+- Le document word demandé,
+- Une documentation rédigée pour l'utilisation du logiciel.
