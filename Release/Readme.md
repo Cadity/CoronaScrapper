@@ -1,5 +1,7 @@
 Contenu du Package "Release"
 
+**Ne doit pas être édité, modifié ou publié sans que la version final n'aie été approuvée par l'ensemble du groupe. La signature RSA déploie la version définitive**
+
 Dossier App :
 
 - Contient l'ensemble des fichiers Python du programme
