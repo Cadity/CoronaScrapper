@@ -7,7 +7,7 @@ class App(tk.Frame):
     def __init__(self, master=None, **kwargs):
         tk.Frame.__init__(self, master, **kwargs)
 
-        self.face = Face(self, width = 1000, height = 230)
+        self.face = TableCnv(self, width = 1000, height = 230)
         self.face.pack()
 
         btn = tk.Button(self, text="Table des virus", command=self.face.defaultTab)
@@ -16,7 +16,7 @@ class App(tk.Frame):
         btn = tk.Button(self, text="Table des gènes", command=self.face.modify)
         btn.pack()
 
-class Face(tk.Canvas):
+class TableCnv(tk.Canvas):
     def __init__(self, master=None, **kwargs):
         tk.Canvas.__init__(self, master, **kwargs)
 
@@ -94,15 +94,16 @@ def Display():
     #Fin Menu
 
     # Gif
+    from PIL import Image, ImageTk
+    image1 = Image.open("Resources/Cov.png")
+    image1 = image1.resize((100, 100))
+    test = ImageTk.PhotoImage(image1)
 
-    img = tk.PhotoImage("Resources/BatGif.gif")
-    label = tk.Label(image=img)
-    label.image = img # the reference
-    label.pack()
+    label1 = tk.Label(image=test)
+    label1.image = test
+    label1.place(relx=0.8, rely=0.05)
 
 
     win = App(root)
     win.place(anchor="center", relx=0.5, rely=0.6)
     root.mainloop()
-
-Display()
