@@ -3,4 +3,12 @@
 - Résolution d'un problème empêchant la visualisation de la comparaison des nucléotides lors du changement de focus de protéine
 - Lors de la séléction d'une nouvelle protéine, le premier tableau s'affiche
 - Révision du code et correction d'un nombre d'erreur minime
-- Résolution du problème de requête multiple -> La fonction WriteFile écrit directement les fichiers d'un gène donné à partir des fichiers récupérés sur la banque 
+- Résolution du problème de requête multiple -> La fonction WriteFile écrit directement les fichiers d'un gène donné à partir des fichiers 
+récupérés sur la banque 
+
+Succès des tests réalisés ! 
+
+
+
+
+
