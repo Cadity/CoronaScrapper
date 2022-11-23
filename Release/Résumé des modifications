@@ -7,6 +7,7 @@
 - Refonte graphique : L'image à été surélevée ; La disposition des labels à été modifié en x ; 
 - Certains label ont été temporairement désactivés -> Réactivation prochaine lors d'une refonte graphique
 - Implantation d'une levée d'exception -> Comme le gène ORF1ab apparaît sous plusieurs écritures différentes, l'analyse est impossible
+- L'ensemble des gènes apparaissant dans les trois génomes sont visualisables
 
 
 
