@@ -6,6 +6,7 @@
 - Les informations sur le taux de conservation de la protéine sont indiquées dans le label au-dessus du tableau, section "comparaison des nucléotides"
 - Refonte graphique : L'image à été surélevée ; La disposition des labels à été modifié en x ; 
 - Certains label ont été temporairement désactivés -> Réactivation prochaine lors d'une refonte graphique
+- Implantation d'une levée d'exception -> Comme le gène ORF1ab apparaît sous plusieurs écritures différentes, l'analyse est impossible
 
 
 
