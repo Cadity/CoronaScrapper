@@ -1,3 +1,11 @@
+23 Novembre 2022 :
+
+- Résolution d'une anomalie réécrivant le fichier spike.fasta en raison d'une mauvaise détection de la protéine en cours d'analyse
+- Adaptation de la plupart des Label dans la fenêtre principale
+- Révision des commentaires sur le code
+- 
+
+
 22 Novembre 2022 :
 
 - Résolution d'un problème empêchant la visualisation de la comparaison des nucléotides lors du changement de focus de protéine
@@ -5,8 +13,6 @@
 - Révision du code et correction d'un nombre d'erreur minime
 - Résolution du problème de requête multiple -> La fonction WriteFile écrit directement les fichiers d'un gène donné à partir des fichiers 
 récupérés sur la banque 
-
-Succès des tests réalisés ! 
 
 
 
