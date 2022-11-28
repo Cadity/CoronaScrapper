@@ -7,7 +7,7 @@ def DisplayIntro():
     #Définition de la fenêtre
     intro = tk.Tk()
     intro.geometry("500x250")
-    intro.title("Corona Scrapper - Alpha 1")
+    intro.title("Corona Wrapper")
     intro.resizable(False, False); #Règle Resizable définie sur False => Limite les erreurs d'affichages car labels statiques
     intro.eval('tk::PlaceWindow . center')
     
