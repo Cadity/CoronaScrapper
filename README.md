@@ -1,9 +1,6 @@
 # CoronaScrapper
 Projet de BioInformatique en Python
 
-
-https://prod.liveshare.vsengsaas.visualstudio.com/join?E95078902DA5E4093357CE885B578B6BC308
-
 Important :<br>
 
 Pour lancer le projet, télécharger la dernière version stable (dans "Package") et executer le fichier App.py
