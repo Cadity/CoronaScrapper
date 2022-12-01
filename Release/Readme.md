@@ -7,7 +7,7 @@
 **Avant de télécharger le logiciel, vous devez vérifier que la signature est correcte**
 
 -----BEGIN PGP SIGNED MESSAGE-----<br>
-Hash: SHA512<br><br>
+Hash: SHA512<br>
 
 En date du 9 Décembre 2022,<br>
 Nous,<br>
