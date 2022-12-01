@@ -17,7 +17,7 @@ Comme rendu du travail de fin semestre de l’année 2022,<br>
 Par la clé privée RSA d’empreinte : 680A 1D42 AF6A 6313 A7B1 814D F527 954F 3054 4C37<br>
 Signature produite par SHA-512<br>
 -----BEGIN PGP SIGNATURE-----<br>
-Version: BCPG C# v1.8.9.0<br><br>
+Version: BCPG C# v1.8.9.0<br>
 
 iQKtBAEBCgCXBQJjiGvokBxMaWNlbmNlIEwxIEluZm8gLSBHcm91cGUgQiAoUmlj<br>
 aGV6IEVsaWUsIFRhdm9pbGxvdCBBbnRvaW5lLCBTYWlkaSBBZGVsIDsgR3JvdXBl<br>
