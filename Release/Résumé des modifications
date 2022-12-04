@@ -1,3 +1,16 @@
+4 Décembre 2022 :
+
+- Les fenêtres Graph et Settings ont été parfaitement implémentés
+- La gestion des Logs et des évènements de CoronaWrapper à été parfaitement implémenté
+- Résolution de multiples anomalies sur le graph en raison d'une erreur de formule de calcul
+- Implémentation de levée d'exception en raison de possibles erreurs de corruptions de mémoires
+- La gestion des répertoires et des fichiers à été parfaitement implémenté
+- Des signatures SHA-512 ont été rééditées lors de la dernière mise à jour
+- Des fonctions de retour au menu et de rééaffichage de fenêtre ont été parfaitement implémentées
+- Les 4 règles définies dans les paramètres sont fonctionnelles et parfaitement implémentées
+- La documentation à été poursuivie
+
+
 23 Novembre 2022 :
 
 - Résolution d'une anomalie réécrivant le fichier spike.fasta en raison d'une mauvaise détection de la protéine en cours d'analyse
