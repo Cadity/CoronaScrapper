@@ -5,6 +5,8 @@ Important :<br>
 
 Pour lancer le projet, télécharger la dernière version stable (dans "Package") et executer le fichier App.py
 
+https://prod.liveshare.vsengsaas.visualstudio.com/join?A4A81E8E5CD37474FEE71D2FA346D90F1D74
+
 
 #Fonctionnement du Logiciel
 
